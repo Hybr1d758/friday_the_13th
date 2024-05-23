@@ -1,5 +1,7 @@
 import pandas as pd 
 
+#input your datasets
+#datasets can also be loaded 
 data = {("Date",""):["October 1989","July 1990","September 1991","December 1991","March 1992","November 1992"],
         ("Accidenet & Poisoning","Friday 6th"):[4,6,1,9,9,1],
         ("Accidenet & Poisoning","Friday 13th"):[7,6,5,5,7,6],
